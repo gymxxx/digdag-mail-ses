@@ -11,7 +11,7 @@ timezone: Asia/Tokyo
 _export:
   plugin:
     repositories:
-      - https://gyam.bintray.com/maven/
+      - https://gymxxx.bintray.com/maven/
     dependencies:
       - io.digdag.plugin.digdag-mail-ses:0.1.0
 
